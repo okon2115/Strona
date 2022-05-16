@@ -1,6 +1,5 @@
 .d1{
-    margin-left: auto;
-    margin-right: auto;
+    
     text-align: center;
     background-color: gray;
     height: 120px;
@@ -16,5 +15,14 @@
 }
 
 a{
-    margin-top: 150px;
+    background-color: lightgray;
+    border: 20px;
+}
+
+.d2{
+    width: 150px;
+    height: 1000px;
+    position: relative;
+    left: 0px;
+    background-color: rgb(29, 23, 23);
 }
