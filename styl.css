@@ -3,20 +3,39 @@
     text-align: center;
     background-color: gray;
     height: 120px;
+    margin-bottom: 0px;
     
 }
 
 #a1{
     margin-right: 50px;
+    position: relative;
+    top: 40px;
+    background-color: lightgray;
+    border: 20px;
+    text-decoration: none;
 }
 
 #a2{
     margin-left: 50px;
+    position: relative;
+    top: 40px;
+    background-color: lightgray;
+    border: 20px;
+    text-decoration: none;
+}
+
+#a3{
+    margin-left: 50px;
+    position: relative;
+    top: 40px;
+    background-color: lightgray;
+    border: 20px;
+    text-decoration: none;
 }
 
 a{
-    background-color: lightgray;
-    border: 20px;
+    text-decoration: none;
 }
 
 .d2{
@@ -24,5 +43,13 @@ a{
     height: 1000px;
     position: relative;
     left: 0px;
-    background-color: rgb(29, 23, 23);
+    background-color: rgb(133, 37, 37);
+    margin-top: 0px;
+    padding-right: 20px;
 }
+
+ol{
+    position: relative;
+    top: 30px;
+}
+
