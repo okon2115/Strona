@@ -57,9 +57,12 @@ ol{
     top: 30px;
 }
 
-img{
+.d3{
     position: absolute;
-    top: 200px;
-    left: 700px;
+    top:400px;
+    left: 700px; 
 }
 
+p{
+    text-align: center;
+}
